@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Botspotai/static/css/main.13dfa199.css",
+    "main.js": "/Botspotai/static/js/main.e4e7a804.js",
+    "index.html": "/Botspotai/index.html",
+    "main.13dfa199.css.map": "/Botspotai/static/css/main.13dfa199.css.map",
+    "main.e4e7a804.js.map": "/Botspotai/static/js/main.e4e7a804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13dfa199.css",
+    "static/js/main.e4e7a804.js"
+  ]
+}
